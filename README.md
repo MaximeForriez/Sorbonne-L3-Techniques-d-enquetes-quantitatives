@@ -14,13 +14,17 @@ Tout le semestre sera organisé autour d'un exercice commun mené dans chacun de
 
 ### Séance 1 [28/09/2026] - [Les statistiques inférentielles - Les bases de l'échantillonnage](./Seance-01/README.md)
 
+À venir : Tutoriel de rattrapage
+
 ### Séance 2 [05/10/2026] - [Les enjeux d'une enquête de terrain](./Seance-02/README.md)
 
 [Tutoriel de rattrapage](https://www.youtube.com/watch?v=gyV8kcaEqGc)
 
-### Séance 3 [12/10/2026] - [La conception du questionnaire](./Seance-03/README.md)
+### Séance 3 [12/10/2026] - [Les définitions de la problématique et du terrain](./Seance-03/README.md)
 
-### Séance 4 [19/10/2026] - [La création du questionnaire - Exercice](./Seance-04/README.md)
+[Tutoriel de rattrapage](https://youtu.be/sudIo1J0Qr8)
+
+### Séance 4 [19/10/2026] - [La création du questionnaire - Cours](./Seance-04/README.md)
 
 ### Séance 5 [02/11/2026] - [La création du questionnaire - Exercice](./Seance-05/README.md)
 
