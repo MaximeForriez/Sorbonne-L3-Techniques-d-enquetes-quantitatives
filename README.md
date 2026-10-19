@@ -70,7 +70,7 @@ Tout le semestre sera organisé autour d'un exercice commun mené dans chacun de
 
 #### Séance 7 [16/11/2026] - [L'enquête de terrain dans et autour du site de Clignancourt - Recueil des données par une enquête administrée par un enquêteur](./Seance-07/README.md)
 
-### Exploiter les résultats de l{'}enquête
+### Exploiter les résultats de l'enquête
 
 #### Séance 8 [23/11/2026] - [La saison des résultats du questionnaire](./Seance-08/README.md)
 
