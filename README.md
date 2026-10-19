@@ -54,7 +54,7 @@ Tout le semestre sera organisé autour d'un exercice commun mené dans chacun de
 
 #### Séance 4 [19/10/2026] - [La rédaction des questions](./Seance-04/README.md)
 
-[Tutoriel de rattrage](https://youtu.be/ecINxcMmtsc)
+[Tutoriel de rattrapage](https://youtu.be/ecINxcMmtsc)
 
 À venir : À me rendre pour la semaine du 2 au 6 novembre 2026, la création de variables d'analyse
 
