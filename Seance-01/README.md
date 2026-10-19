@@ -24,7 +24,7 @@ Introduction générale
 
     2. Les méthodes non aléatoires
 
-    3. Méthodes d’échantillonnage « Monte Carlo »
+    3. Les méthodes d’échantillonnage « Monte Carlo »
 
     4. Conclusion : construire un intervalle de fluctuation
 
