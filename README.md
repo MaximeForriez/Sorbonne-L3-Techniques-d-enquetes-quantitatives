@@ -24,6 +24,10 @@
 
 7. Fournir à chacun la capacité d'évaluer la crédibilité des enquêtes, notamment leur fiabilité statistique.
 
+- [Tutoriel sur les objectifs du cours](https://youtu.be/w0MQEylfWlg)
+
+- [Tutoriel sur la bibliographie du cours](https://youtu.be/ZZ0HA1Nuh-I)
+
 ## Plan du cours
 
 Tout le semestre sera organisé autour d'un exercice commun mené dans chacun des groupes.
