@@ -8,6 +8,22 @@
 
 - Groupe 3 : lundi 16h00-17h30 - Salle 415
 
+## Objectifs du cours
+
+1. Permettre l'acquisition des savoir-faire de base ;
+
+2. Connaître les différents types d'enquêtes ;
+
+3. Comprendre les conditions de la réalisation d'une enquête ;
+
+4. Comprendre les termes techniques d'une enquête ;
+
+5. Éviter la confusion entre quantifications descriptives et quantifications explicatives ;
+
+6. Analyser les résultats d'une enquête ;
+
+7. Fournir à chacun la capacité d'évaluer la crédibilité des enquêtes, notamment leur fiabilité statistique.
+
 ## Plan du cours
 
 Tout le semestre sera organisé autour d'un exercice commun mené dans chacun des groupes.
@@ -32,27 +48,29 @@ Tout le semestre sera organisé autour d'un exercice commun mené dans chacun de
 
 #### Séance 4 [19/10/2026] - [La rédaction des questions](./Seance-04/README.md)
 
+À venir : À me rendre pour la semaine du 2 au 6 novembre 2026, la création de variables d'analyse
+
 #### Séance 5 [02/11/2026] - [Les bases juridiques en droit français d'un questionnaire](./Seance-05/README.md)
 
 À venir : À me rendre pour la semaine du 9 au 13 novembre 2026, la rédaction des questions en respectant la démarche scientifique et le droit français
 
 ### Administrer un questionnaire
 
-### Séance 6 [09/11/2026] - [](./Seance-06/README.md)
-
-### Séance 7 [16/11/2026] - [](./Seance-07/README.md)
+#### Séance 6 [09/11/2026] - [L'administration d'un questionnaire](./Seance-06/README.md)
 
 ### Enquêter sur le terrain
 
-#### Séance 8 [23/11/2026] - [L'enquête de terrain dans et autour du site de Clignancourt - Recueil des données](./Seance-08/README.md)
-
-À venir : À me rendre pour la semaine du 23 au 27 novembre 20226, la saisie des résultats de votre enquête.
+#### Séance 7 [16/11/2026] - [L'enquête de terrain dans et autour du site de Clignancourt - Recueil des données par une enquête administrée par un enquêteur](./Seance-07/README.md)
 
 ### Exploiter les résultats de l{'}enquête
 
-#### Séance 9 [30/11/2026] - [La création d'une base de données / Analyse statistique des résultats](./Seance-09/README.md)
+#### Séance 8 [23/11/2026] - [La saison des résultats du questionnaire](./Seance-08/README.md)
 
-#### Séance 10 [07/12/2026] - [La rédaction du rapport final](./Seance-10/README.md)
+À venir : À me rendre pour la semaine du 23 au 27 novembre 2026, la saisie des résultats de votre enquête.
+
+#### Séance 9 [30/11/2026] - [La constitution d'une base de données](./Seance-09/README.md)
+
+#### Séance 10 [07/12/2026] - [L'exploitation statistique de la base de données / La rédaction du rapport final](./Seance-10/README.md)
 
 ### Séance 11 [14/12/2026] - Révisions
 
