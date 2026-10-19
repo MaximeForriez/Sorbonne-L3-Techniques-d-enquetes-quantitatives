@@ -28,6 +28,8 @@
 
 - [Tutoriel sur la bibliographie du cours](https://youtu.be/ZZ0HA1Nuh-I)
 
+- [Tutoriel sur le plan du cours](https://youtu.be/e6TdeCh9bk4)
+
 ## Plan du cours
 
 Tout le semestre sera organisé autour d'un exercice commun mené dans chacun des groupes.
@@ -51,6 +53,8 @@ Tout le semestre sera organisé autour d'un exercice commun mené dans chacun de
 [À rendre pour la semaine du 19 au 23 octobre 2026](./Exercices/Seance-04-TD.pdf).
 
 #### Séance 4 [19/10/2026] - [La rédaction des questions](./Seance-04/README.md)
+
+[Tutoriel de rattrage](https://youtu.be/ecINxcMmtsc)
 
 À venir : À me rendre pour la semaine du 2 au 6 novembre 2026, la création de variables d'analyse
 
