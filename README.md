@@ -34,15 +34,25 @@
 
 Tout le semestre sera organisé autour d'un exercice commun mené dans chacun des groupes.
 
+[Objectifs du cours - Support](./Seance-00/Seance-00a.pdf)
+
+[Bibliographie commentée - Support](./Seance-00/Seance-00b.pdf)
+
+[Plan du cours - Support](./Seance-00/Seance-00c.pdf)
+
 ### Bases théoriques
 
 #### Séance 1 [28/09/2026] - [Les statistiques inférentielles - Les bases de l'échantillonnage](./Seance-01/README.md)
 
 [Tutoriel de rattrapage](https://youtu.be/yQASjZELKGI)
 
+[Support du cours](./Seance-01/Seance-01.pdf)
+
 #### Séance 2 [05/10/2026] - [Les enjeux d'une enquête de terrain](./Seance-02/README.md)
 
 [Tutoriel de rattrapage](https://www.youtube.com/watch?v=gyV8kcaEqGc)
+
+[Support du cours](./Seance-02/Seance-02.pdf)
 
 ### Concevoir un questionnaire
 
