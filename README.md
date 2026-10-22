@@ -90,7 +90,7 @@ Tout le semestre sera organisé autour d'un exercice commun mené dans chacun de
 
 ### Exploiter les résultats de l'enquête
 
-#### Séance 8 [23/11/2026] - [La saison des résultats du questionnaire](./Seance-08/README.md)
+#### Séance 8 [23/11/2026] - [La saisie des résultats du questionnaire](./Seance-08/README.md)
 
 À venir : À me rendre pour la semaine du 23 au 27 novembre 2026, la saisie des résultats de votre enquête.
 
