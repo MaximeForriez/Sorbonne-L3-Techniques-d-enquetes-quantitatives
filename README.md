@@ -74,11 +74,15 @@ Tout le semestre sera organisé autour d'un exercice commun mené dans chacun de
 
 #### Séance 5 [02/11/2026] - [Les bases juridiques en droit français d'un questionnaire](./Seance-05/README.md)
 
+[Support du cours](./Seance-05/Seance-05.pdf)
+
 À venir : À me rendre pour la semaine du 9 au 13 novembre 2026, la rédaction des questions en respectant la démarche scientifique et le droit français
 
 ### Administrer un questionnaire
 
 #### Séance 6 [09/11/2026] - [L'administration d'un questionnaire](./Seance-06/README.md)
+
+[Support du cours](./Seance-06/Seance-06.pdf)
 
 ### Enquêter sur le terrain
 
