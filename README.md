@@ -60,11 +60,15 @@ Tout le semestre sera organisé autour d'un exercice commun mené dans chacun de
 
 [Tutoriel de rattrapage](https://youtu.be/sudIo1J0Qr8)
 
+[Support du cours](./Seance-03/Seance-03.pdf)
+
 [À rendre pour la semaine du 19 au 23 octobre 2026, reporté à la semaine du 2 au 6 novembre 2026](./Exercices/Seance-04-TD.pdf).
 
 #### Séance 4 [19/10/2026] - [La rédaction des questions](./Seance-04/README.md)
 
 [Tutoriel de rattrapage](https://youtu.be/ecINxcMmtsc)
+
+[Support du cours](./Seance-04/Seance-04.pdf)
 
 À venir : À me rendre pour la semaine du 2 au 6 novembre 2026, la création de variables d'analyse
 
