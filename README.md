@@ -50,7 +50,7 @@ Tout le semestre sera organisé autour d'un exercice commun mené dans chacun de
 
 #### Séance 2 [05/10/2026] - [Les enjeux d'une enquête de terrain](./Seance-02/README.md)
 
-[Tutoriel de rattrapage](https://www.youtube.com/watch?v=gyV8kcaEqGc)
+[Tutoriel de rattrapage](https://https://youtu.be/gyV8kcaEqGc)
 
 [Support du cours](./Seance-02/Seance-02.pdf)
 
@@ -70,19 +70,21 @@ Tout le semestre sera organisé autour d'un exercice commun mené dans chacun de
 
 [Support du cours](./Seance-04/Seance-04.pdf)
 
-À venir : À me rendre pour la semaine du 2 au 6 novembre 2026, la création de variables d'analyse
-
 #### Séance 5 [02/11/2026] - [Les bases juridiques en droit français d'un questionnaire](./Seance-05/README.md)
 
 [Support du cours](./Seance-05/Seance-05.pdf)
 
-À venir : À me rendre pour la semaine du 9 au 13 novembre 2026, la rédaction des questions en respectant la démarche scientifique et le droit français
+[Tutoriel de rattrapage](https://youtu.be/JiSSHODbBN4)
+
+À venir : À me rendre pour la semaine du 9 au 13 novembre 2026, la rédaction des questions en respectant la démarche scientifique et le droit français, ainsi que la création des indicateurs d'analyse
 
 ### Administrer un questionnaire
 
 #### Séance 6 [09/11/2026] - [L'administration d'un questionnaire](./Seance-06/README.md)
 
 [Support du cours](./Seance-06/Seance-06.pdf)
+
+[Tutoriel de rattrapage](https://youtu.be/UqCOSDy9eQs)
 
 ### Enquêter sur le terrain
 
@@ -92,15 +94,31 @@ Tout le semestre sera organisé autour d'un exercice commun mené dans chacun de
 
 #### Séance 8 [23/11/2026] - [La saisie des résultats du questionnaire](./Seance-08/README.md)
 
+[Support du cours](./Seance-08/Seance-08.pdf)
+
+[Tutoriel de rattrapage](https://youtu.be/3_9gQ2oa0L4)
+
 À venir : À me rendre pour la semaine du 23 au 27 novembre 2026, la saisie des résultats de votre enquête.
 
-#### Séance 9 [30/11/2026] - [La constitution d'une base de données](./Seance-09/README.md)
+#### Séance 9 [30/11/2026] - [L'exploitation statistique de la base de données ou le retour des statistiques](./Seance-09/README.md)
 
-#### Séance 10 [07/12/2026] - [L'exploitation statistique de la base de données / La rédaction du rapport final](./Seance-10/README.md)
+[Support du cours](./Seance-09/Seance-09.pdf)
+
+[Tutoriel de rattrapage](https://youtu.be/KntQvNd85qw)
+
+#### Séance 10 [07/12/2026] - [La rédaction du rapport final](./Seance-10/README.md)
+
+[Support du cours](./Seance-10/Seance-10.pdf)
+
+[Tutoriel de rattrapage](https://youtu.be/taplKHRHl4A)
+
+[Support du cours - Conclusion générale du cours](./Seance-11/Seance-11.pdf)
+
+[Tutoriel de rattrapage - Conclusion générale du cours](https://youtu.be/GKdULlJbmBY)
 
 ### Séance 11 [14/12/2026] - Révisions
 
-Date limite pour me rendre votre rapport final d'activité.
+Date limite pour me rendre votre rapport final d'activité à partir des données saisies.
 
 ### Séance 12 [] - À venir pour l'année 2027-2028
 
