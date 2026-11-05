@@ -76,7 +76,7 @@ Tout le semestre sera organisé autour d'un exercice commun mené dans chacun de
 
 [Support du cours](./Seance-05/Seance-05.pdf)
 
-À venir : À me rendre pour la semaine du 9 au 13 novembre 2026, la rédaction des questions en respectant la démarche scientifique et le droit français, ainsi que la création des indicateurs d'analyse
+[À rendre pour la semaine du 9 au 13 novembre 2026](./Exercices/Seance-06-TD.pdf).
 
 ### Administrer un questionnaire
 
